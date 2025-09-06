@@ -103,7 +103,7 @@ Enable cloud sync with end-to-end encryption
 
 Clone the repo and run locally:
 
-git clone https://github.com/AbhijitRai2003/secure-notes.git
+git clone https://github.com/AbhijitRai2003/secure-notes-app.git
 cd secure-notes
 npm install
 npm start
